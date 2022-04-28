@@ -8,7 +8,7 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/greymatter658/SaveRestrictedContentBot",
+    "repository": "https://github.com/Leo-memlon/SaveRestrictedContentBot",
     "website": "",
     "success_url": "https://t.me/greymatter_bots",
     "env": {
